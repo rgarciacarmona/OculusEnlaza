@@ -48,7 +48,7 @@ This work was part of an study published as [Accuracy study of the Oculus Touch 
 }
 ```
 
-The dataset used in the journal is available here.
+The dataset used in the journal is [available here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FJTYSFC).
 
 ## Usage
 
